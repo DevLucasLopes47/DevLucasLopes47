@@ -4,7 +4,7 @@
   <tr>
     <td> 
 
-- 👨🏽‍💻 Estudante de Ciencia da computação na UNI-BH.
+- 👨🏽‍💻 Estudante de Ciência da computação na UNI-BH.
 - 💼 Programador Fullstack.
 - 📖 Estudando nesse momento: PHP, Node.js e React.
 - 🤔 Desenvolvimento web, Criação de Sistemas.
